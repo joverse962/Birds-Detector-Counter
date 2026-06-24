@@ -27,7 +27,7 @@ Ensure the yolo11n.pt model file is available (automatically downloaded by ultra
 
 Launch the application:
 
-`ash
+`
 python -m streamlit run new.py
 `
 
